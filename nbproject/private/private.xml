@@ -2,24 +2,6 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group>
-            <file>file:/C:/xampp/htdocs/SMTest/database/migrations/2024_10_24_030542_create_clients_table.php</file>
-            <file>file:/C:/xampp/htdocs/SMTest/database/seeders/ClientsTableSeeder.php</file>
-            <file>file:/C:/xampp/htdocs/SMTest/app/Http/Controllers/ClientController.php</file>
-            <file>file:/C:/xampp/htdocs/SMTest/routes/web.php</file>
-            <file>file:/C:/xampp/htdocs/SMTest/database/migrations/0001_01_01_000000_create_users_table.php</file>
-            <file>file:/C:/xampp/htdocs/SMTest/database/seeders/DatabaseSeeder.php</file>
-            <file>file:/C:/xampp/htdocs/SMTest/docker-compose.yml</file>
-            <file>file:/C:/xampp/htdocs/SMTest/app/Models/User.php</file>
-            <file>file:/C:/xampp/htdocs/SMTest/.env</file>
-            <file>file:/C:/xampp/htdocs/SMTest/composer.lock</file>
-            <file>file:/C:/xampp/htdocs/SMTest/database/migrations/0001_01_01_000001_create_cache_table.php</file>
-            <file>file:/C:/xampp/htdocs/SMTest/app/Http/Controllers/UserController.php</file>
-            <file>file:/C:/xampp/htdocs/SMTest/Dockerfile</file>
-            <file>file:/C:/xampp/htdocs/SMTest/composer.json</file>
-            <file>file:/C:/xampp/htdocs/SMTest/database/migrations/0001_01_01_000002_create_jobs_table.php</file>
-            <file>file:/C:/xampp/htdocs/SMTest/app/Models/Client.php</file>
-            <file>file:/C:/xampp/htdocs/SMTest/database/seeders/UsersTableSeeder.php</file>
-        </group>
+        <group/>
     </open-files>
 </project-private>
